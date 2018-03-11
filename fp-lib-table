@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "PowerSupply Custom")(type KiCad)(uri "$(KIPRJMOD)/KiCAD_Libraries-master/KiCAD_Libraries-master/PCB/Power_Supply.pretty")(options "")(descr ""))
+  (lib (name Graphics)(type KiCad)(uri "$(KIPRJMOD)/Graphics.pretty")(options "")(descr ""))
+  (lib (name .pretty)(type KiCad)(uri "$(KIPRJMOD)/.pretty")(options "")(descr ""))
+)
